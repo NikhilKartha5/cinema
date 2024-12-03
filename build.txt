@@ -1,0 +1,4 @@
+USAGE:
+
+cd frontend && npm install && npm start
+cd backend && ./mvnw spring-boot:run
